@@ -26,6 +26,22 @@ I'm a **Computer Science student** at **ASOIU**, currently in my 2nd year, worki
 
 <br/>
 
+## 🔗 Connect With Me
+
+<a href="https://www.linkedin.com/in/rinataghayev/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" height="32"/>
+</a>
+&nbsp;
+<a href="mailto:rinatagayev07@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" height="32"/>
+</a>
+&nbsp;
+<a href="https://t.me/rinat_web_dev">
+  <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" height="32"/>
+</a>
+
+<br/><br/>
+
 ## 🛠 Tech Stack
 
 <table>
@@ -69,6 +85,17 @@ I'm a **Computer Science student** at **ASOIU**, currently in my 2nd year, worki
 </td>
 </tr>
 </table>
+
+<br/>
+
+## 📊 GitHub Stats & Trophies
+
+<img height="170" src="https://streak-stats.demolab.com?user=Rinat5x30&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=c9d1d9&dates=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="streak"/>
+<img height="170" src="https://github-readme-stats-rust-six-24.vercel.app/api/top-langs/?username=Rinat5x30&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=c9d1d9&langs_count=8" alt="top languages"/>
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Rinat5x30&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&row=1&column=4" alt="trophies" width="100%"/>
 
 <br/>
 
@@ -133,37 +160,7 @@ Exam ticket generator for 5 university subjects with A4 print optimization and q
 </tr>
 </table>
 
-<br/>
-
-## 📊 GitHub Stats
-
-<img height="170" src="https://streak-stats.demolab.com?user=Rinat5x30&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=c9d1d9&dates=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="streak"/>
-<img height="170" src="https://github-readme-stats-rust-six-24.vercel.app/api/top-langs/?username=Rinat5x30&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=c9d1d9&langs_count=8" alt="top languages"/>
-
-<br/>
-
-<!-- ◆ TROPHIES ◆ -->
-## 🏆 GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=Rinat5x30&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&row=1&column=4" alt="trophies" width="100%"/>
-
-<br/>
-
-## 🔗 Connect With Me
-
-<a href="https://www.linkedin.com/in/rinataghayev/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" height="32"/>
-</a>
-&nbsp;
-<a href="mailto:rinatagayev07@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" height="32"/>
-</a>
-&nbsp;
-<a href="https://t.me/rinat_web_dev">
-  <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" height="32"/>
-</a>
-
-<br/>
+<br/><br/>
 
 <!-- ◆ FOOTER ◆ -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:1F2937,100:0D1117&height=100&section=footer" width="100%" alt="footer"/>
