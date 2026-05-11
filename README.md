@@ -9,7 +9,7 @@
 
 <!-- ◆ HERO BANNER ◆ -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F2937,100:00D9FF&height=220&section=header&text=Rinat&fontSize=85&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20Student%20%E2%80%94%20Web%20Developer&descAlignY=60&descSize=18&animation=twinkling" width="100%" alt="header"/>
- 
+
 <!-- ◆ TYPING SVG ◆ -->
 <a href="https://github.com/Rinat5x30">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=900&color=00D9FF&center=true&vCenter=true&width=720&height=50&lines=Crafting+code%2C+one+commit+at+a+time;Building+scalable+web+applications;Turning+complex+problems+into+elegant+solutions" alt="Typing SVG"/>
@@ -25,11 +25,6 @@
 <br/>
 
 ## ⚡ About Me
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-rust-six-24.vercel.app/api?username=Rinat5x30&show_icons=true&hide_title=true&hide=stars,issues,contribs&hide_border=true&bg_color=00000000&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9">
-  <img align="right" width="42%" src="https://github-readme-stats-rust-six-24.vercel.app/api?username=Rinat5x30&show_icons=true&hide_title=true&hide=stars,issues,contribs&hide_border=true&title_color=0969da&icon_color=0969da">
-</picture>
 
 I'm a **Computer Science student** at **ASOIU**, currently in my 2nd year, working as a freelance web developer alongside my studies.
 
