@@ -64,6 +64,11 @@ I'm a **Computer Science student** at **ASOIU**, currently in my 2nd year, worki
 <td width="50%" valign="top" align="center">
 
 ### [→ BodyCode](https://github.com/Rinat5x30/BodyCode)
+
+<a href="https://github.com/Rinat5x30/BodyCode">
+  <img src="https://opengraph.githubassets.com/1/Rinat5x30/BodyCode" alt="BodyCode preview" width="100%" style="border-radius:8px"/>
+</a>
+
 Fitness web app with a scientific approach to health tracking. Deployed at bodycode.lol.
 
 **Stack:** `Python` `Django` `HTML` `CSS` `JavaScript`
@@ -72,6 +77,11 @@ Fitness web app with a scientific approach to health tracking. Deployed at bodyc
 <td width="50%" valign="top" align="center">
 
 ### [→ scripta-digital-library](https://github.com/Rinat5x30/scripta-digital-library)
+
+<a href="https://github.com/Rinat5x30/scripta-digital-library">
+  <img src="https://opengraph.githubassets.com/1/Rinat5x30/scripta-digital-library" alt="scripta preview" width="100%" style="border-radius:8px"/>
+</a>
+
 Full-stack digital library platform for organizing and accessing books online.
 
 **Stack:** `Python` `Django` `HTML` `CSS` `JavaScript`
@@ -82,6 +92,11 @@ Full-stack digital library platform for organizing and accessing books online.
 <td width="50%" valign="top" align="center">
 
 ### [→ viselisa](https://github.com/Rinat5x30/viselisa)
+
+<a href="https://github.com/Rinat5x30/viselisa">
+  <img src="https://opengraph.githubassets.com/1/Rinat5x30/viselisa" alt="viselisa preview" width="100%" style="border-radius:8px"/>
+</a>
+
 Hangman game where players guess names of Italian footballers, with progressive hints and REST API.
 
 **Stack:** `Python` `Django REST Framework` `SQLite` `Docker`
@@ -90,6 +105,11 @@ Hangman game where players guess names of Italian footballers, with progressive 
 <td width="50%" valign="top" align="center">
 
 ### [→ django-ticket-generator](https://github.com/Rinat5x30/django-ticket-generator)
+
+<a href="https://github.com/Rinat5x30/django-ticket-generator">
+  <img src="https://opengraph.githubassets.com/1/Rinat5x30/django-ticket-generator" alt="ticket-generator preview" width="100%" style="border-radius:8px"/>
+</a>
+
 Exam ticket generator for 5 university subjects with A4 print optimization and question database management.
 
 **Stack:** `Python` `Django` `SQLite` `HTML`
@@ -104,6 +124,13 @@ Exam ticket generator for 5 university subjects with A4 print optimization and q
 
 <img height="170" src="https://streak-stats.demolab.com?user=Rinat5x30&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=c9d1d9&dates=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="streak"/>
 <img height="170" src="https://github-readme-stats-rust-six-24.vercel.app/api/top-langs/?username=Rinat5x30&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=c9d1d9&langs_count=8" alt="top languages"/>
+
+<br/>
+
+<!-- ◆ TROPHIES ◆ -->
+## 🏆 GitHub Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=Rinat5x30&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" alt="trophies" width="100%"/>
 
 <br/>
 
