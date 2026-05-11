@@ -66,7 +66,7 @@ I'm a **Computer Science student** at **ASOIU**, currently in my 2nd year, worki
 ### [→ BodyCode](https://github.com/Rinat5x30/BodyCode)
 
 <a href="https://github.com/Rinat5x30/BodyCode">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rinat5x30&repo=BodyCode&bg_color=0D1117&border_color=00D9FF&title_color=00D9FF&text_color=c9d1d9&icon_color=00D9FF&hide_border=false" alt="BodyCode preview"/>
+  <img src="https://socialify.git.ci/Rinat5x30/BodyCode/image?theme=Dark&language=1&stargazers=1&forks=1&description=1" alt="BodyCode preview" width="100%"/>
 </a>
 
 Fitness web app with a scientific approach to health tracking. Deployed at bodycode.lol.
@@ -79,7 +79,7 @@ Fitness web app with a scientific approach to health tracking. Deployed at bodyc
 ### [→ scripta-digital-library](https://github.com/Rinat5x30/scripta-digital-library)
 
 <a href="https://github.com/Rinat5x30/scripta-digital-library">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rinat5x30&repo=scripta-digital-library&bg_color=0D1117&border_color=00D9FF&title_color=00D9FF&text_color=c9d1d9&icon_color=00D9FF&hide_border=false" alt="scripta preview"/>
+  <img src="https://socialify.git.ci/Rinat5x30/scripta-digital-library/image?theme=Dark&language=1&stargazers=1&forks=1&description=1" alt="scripta preview" width="100%"/>
 </a>
 
 Full-stack digital library platform for organizing and accessing books online.
@@ -94,7 +94,7 @@ Full-stack digital library platform for organizing and accessing books online.
 ### [→ viselisa](https://github.com/Rinat5x30/viselisa)
 
 <a href="https://github.com/Rinat5x30/viselisa">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rinat5x30&repo=viselisa&bg_color=0D1117&border_color=00D9FF&title_color=00D9FF&text_color=c9d1d9&icon_color=00D9FF&hide_border=false" alt="viselisa preview"/>
+  <img src="https://socialify.git.ci/Rinat5x30/viselisa/image?theme=Dark&language=1&stargazers=1&forks=1&description=1" alt="viselisa preview" width="100%"/>
 </a>
 
 Hangman game where players guess names of Italian footballers, with progressive hints and REST API.
@@ -107,7 +107,7 @@ Hangman game where players guess names of Italian footballers, with progressive 
 ### [→ django-ticket-generator](https://github.com/Rinat5x30/django-ticket-generator)
 
 <a href="https://github.com/Rinat5x30/django-ticket-generator">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rinat5x30&repo=django-ticket-generator&bg_color=0D1117&border_color=00D9FF&title_color=00D9FF&text_color=c9d1d9&icon_color=00D9FF&hide_border=false" alt="ticket-generator preview"/>
+  <img src="https://socialify.git.ci/Rinat5x30/django-ticket-generator/image?theme=Dark&language=1&stargazers=1&forks=1&description=1" alt="ticket-generator preview" width="100%"/>
 </a>
 
 Exam ticket generator for 5 university subjects with A4 print optimization and question database management.
