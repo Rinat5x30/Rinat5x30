@@ -14,18 +14,20 @@
 <kbd>&nbsp;📍&nbsp;Baku, Azerbaijan&nbsp;</kbd>&nbsp;&nbsp;<kbd>&nbsp;●&nbsp;Available for freelance&nbsp;</kbd>&nbsp;&nbsp;<kbd>&nbsp;○&nbsp;Studying at ASOIU&nbsp;</kbd>
 
 <br/>
+
 <a href="https://www.linkedin.com/in/rinataghayev/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" height="32"/>
-</a>
-&nbsp;
-<a href="mailto:rinatagayev07@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" height="32"/>
 </a>
 &nbsp;
 <a href="https://t.me/rinat_web_dev">
   <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" height="32"/>
 </a>
-<br/>
+<a href="mailto:rinatagayev07@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" height="32"/>
+</a>
+&nbsp;
+
+<br/><br/>
 
 ## ⚡ About Me
 
