@@ -22,6 +22,7 @@
 <a href="https://t.me/rinat_web_dev">
   <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" height="32"/>
 </a>
+&nbsp;
 <a href="mailto:rinatagayev07@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" height="32"/>
 </a>
