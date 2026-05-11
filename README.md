@@ -62,36 +62,36 @@ I'm a **Computer Science student** at **ASOIU**, currently in my 2nd year, worki
 <tr>
 <td width="50%" valign="top" align="center">
 
-### [→ project-one](https://github.com/Rinat5x30/project-one)
-Short description of what this project does and the problem it solves.
+### [→ BodyCode](https://github.com/Rinat5x30/BodyCode)
+Fitness web app with a scientific approach to health tracking. Deployed at bodycode.lol.
 
-**Stack:** `Python` `Django` `PostgreSQL`
+**Stack:** `Python` `Django` `HTML` `CSS` `JavaScript`
 
 </td>
 <td width="50%" valign="top" align="center">
 
-### [→ project-two](https://github.com/Rinat5x30/project-two)
-Short description of what this project does and the problem it solves.
+### [→ scripta-digital-library](https://github.com/Rinat5x30/scripta-digital-library)
+Full-stack digital library platform for organizing and accessing books online.
 
-**Stack:** `Python` `Django` `JavaScript`
+**Stack:** `Python` `Django` `HTML` `CSS` `JavaScript`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top" align="center">
 
-### [→ project-three](https://github.com/Rinat5x30/project-three)
-Short description of what this project does and the problem it solves.
+### [→ viselisa](https://github.com/Rinat5x30/viselisa)
+Hangman game where players guess names of Italian footballers, with progressive hints and REST API.
 
-**Stack:** `HTML` `CSS` `JavaScript`
+**Stack:** `Python` `Django REST Framework` `SQLite` `Docker`
 
 </td>
 <td width="50%" valign="top" align="center">
 
-### [→ project-four](https://github.com/Rinat5x30/project-four)
-Short description of what this project does and the problem it solves.
+### [→ django-ticket-generator](https://github.com/Rinat5x30/django-ticket-generator)
+Exam ticket generator for 5 university subjects with A4 print optimization and question database management.
 
-**Stack:** `Python` `Django REST` `PostgreSQL`
+**Stack:** `Python` `Django` `SQLite` `HTML`
 
 </td>
 </tr>
