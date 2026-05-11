@@ -101,7 +101,6 @@ Short description of what this project does and the problem it solves.
 
 ## 📊 GitHub Stats
 
-<img height="180" src="https://github-readme-stats-rust-six-24.vercel.app/api?username=Rinat5x30&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="stats"/>
 <img height="180" src="https://streak-stats.demolab.com?user=Rinat5x30&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=c9d1d9&dates=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="streak"/>
 
 <br/><br/>
