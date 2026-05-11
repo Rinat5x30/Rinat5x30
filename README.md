@@ -160,7 +160,7 @@ Exam ticket generator for 5 university subjects with A4 print optimization and q
 </tr>
 </table>
 
-<br/><br/>
+<br/>
 
 <!-- ◆ FOOTER ◆ -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:1F2937,100:0D1117&height=100&section=footer" width="100%" alt="footer"/>
