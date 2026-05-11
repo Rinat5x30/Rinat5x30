@@ -91,7 +91,7 @@ I'm a **Computer Science student** at **ASOIU**, currently in my 2nd year, worki
 ## 📊 GitHub Stats & Trophies
 
 <img height="170" src="https://streak-stats.demolab.com?user=Rinat5x30&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=c9d1d9&dates=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="streak"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rinat5x30&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=c9d1d9&langs_count=8" alt="top languages"/>
+<img height="170" src="https://github-readme-stats-rust-six-24.vercel.app/api/top-langs/?username=Rinat5x30&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=c9d1d9&langs_count=8" alt="top languages"/>
 
 <br/>
 
