@@ -53,6 +53,7 @@ I'm a **Computer Science student** at **ASOIU**, currently in my 2nd year, worki
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 <br/>
 
@@ -101,7 +102,7 @@ Exam ticket generator for 5 university subjects with A4 print optimization and q
 
 ## 📊 GitHub Stats
 
-<img height="180" src="https://streak-stats.demolab.com?user=Rinat5x30&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=c9d1d9&dates=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="streak"/>
+<img width="100%" src="https://streak-stats.demolab.com?user=Rinat5x30&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=c9d1d9&dates=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="streak"/>
 
 <br/><br/>
 
