@@ -28,32 +28,47 @@ I'm a **Computer Science student** at **ASOIU**, currently in my 2nd year, worki
 
 ## 🛠 Tech Stack
 
-**Languages**
-<br/>
+<table>
+<tr>
+<td valign="top" width="50%">
+
+**Languages**<br/>
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
-**Frontend**
-<br/>
+</td>
+<td valign="top" width="50%">
+
+**Frontend**<br/>
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 
-**Backend & Databases**
-<br/>
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
+
+**Backend & Databases**<br/>
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle_SQL-F80000?style=flat-square&logo=oracle&logoColor=white)
 
-**Design & Tools**
-<br/>
+</td>
+<td valign="top" width="50%">
+
+**Design & Tools**<br/>
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -148,7 +163,7 @@ Exam ticket generator for 5 university subjects with A4 print optimization and q
   <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" height="32"/>
 </a>
 
-<br/><br/>
+<br/>
 
 <!-- ◆ FOOTER ◆ -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:1F2937,100:0D1117&height=100&section=footer" width="100%" alt="footer"/>
