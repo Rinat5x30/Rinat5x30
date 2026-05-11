@@ -13,21 +13,7 @@
 <!-- ◆ STATUS BADGES ◆ -->
 <kbd>&nbsp;📍&nbsp;Baku, Azerbaijan&nbsp;</kbd>&nbsp;&nbsp;<kbd>&nbsp;●&nbsp;Available for freelance&nbsp;</kbd>&nbsp;&nbsp;<kbd>&nbsp;○&nbsp;Studying at ASOIU&nbsp;</kbd>
 
-<br/><br/>
-
-## ⚡ About Me
-
-I'm a **Computer Science student** at **ASOIU**, currently in my 2nd year, working as a freelance web developer alongside my studies.
-
-<p>🎓 Strong fundamentals in <strong>algorithms, data structures, and systems</strong></p>
-<p>🧩 Specializing in <strong>backend development</strong> with Python & Django</p>
-<p>⚡ Known for picking up new stacks fast and shipping production-ready code</p>
-<p>🌍 Based in Baku, working with clients worldwide</p>
-
 <br/>
-
-## 🔗 Connect With Me
-
 <a href="https://www.linkedin.com/in/rinataghayev/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" height="32"/>
 </a>
@@ -39,8 +25,18 @@ I'm a **Computer Science student** at **ASOIU**, currently in my 2nd year, worki
 <a href="https://t.me/rinat_web_dev">
   <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" height="32"/>
 </a>
+<br/>
 
-<br/><br/>
+## ⚡ About Me
+
+I'm a **Computer Science student** at **ASOIU**, currently in my 2nd year, working as a freelance web developer alongside my studies.
+
+<p>🎓 Strong fundamentals in <strong>algorithms, data structures, and systems</strong></p>
+<p>🧩 Specializing in <strong>backend development</strong> with Python & Django</p>
+<p>⚡ Known for picking up new stacks fast and shipping production-ready code</p>
+<p>🌍 Based in Baku, working with clients worldwide</p>
+
+<br/>
 
 ## 🛠 Tech Stack
 
