@@ -19,13 +19,10 @@
 
 I'm a **Computer Science student** at **ASOIU**, currently in my 2nd year, working as a freelance web developer alongside my studies.
 
-🎓 Strong fundamentals in **algorithms, data structures, and systems**
-&nbsp;·&nbsp;
-🧩 Specializing in **backend development** with Python & Django
-&nbsp;·&nbsp;
-⚡ Known for picking up new stacks fast and shipping production-ready code
-&nbsp;·&nbsp;
-🌍 Based in Baku, working with clients worldwide
+<p>🎓 Strong fundamentals in <strong>algorithms, data structures, and systems</strong></p>
+<p>🧩 Specializing in <strong>backend development</strong> with Python & Django</p>
+<p>⚡ Known for picking up new stacks fast and shipping production-ready code</p>
+<p>🌍 Based in Baku, working with clients worldwide</p>
 
 <br/>
 
