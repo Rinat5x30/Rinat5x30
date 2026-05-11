@@ -20,20 +20,21 @@
 <!-- ◆ STATUS BADGES ◆ -->
 <kbd>&nbsp;📍&nbsp;Baku, Azerbaijan&nbsp;</kbd>&nbsp;&nbsp;<kbd>&nbsp;●&nbsp;Available for freelance&nbsp;</kbd>&nbsp;&nbsp;<kbd>&nbsp;○&nbsp;Studying at ASOIU&nbsp;</kbd>
 
-</div>
-
-<br/>
+<br/><br/>
 
 ## ⚡ About Me
 
 I'm a **Computer Science student** at **ASOIU**, currently in my 2nd year, working as a freelance web developer alongside my studies.
 
-- 🎓 Strong fundamentals in **algorithms, data structures, and systems**
-- 🧩 Specializing in **backend development** with Python & Django
-- ⚡ Known for picking up new stacks fast and shipping production-ready code
-- 🌍 Based in Baku, working with clients worldwide
+🎓 Strong fundamentals in **algorithms, data structures, and systems**
+&nbsp;·&nbsp;
+🧩 Specializing in **backend development** with Python & Django
+&nbsp;·&nbsp;
+⚡ Known for picking up new stacks fast and shipping production-ready code
+&nbsp;·&nbsp;
+🌍 Based in Baku, working with clients worldwide
 
-<br clear="both"/>
+<br/>
 
 ## 🛠 Tech Stack
 
@@ -69,7 +70,7 @@ I'm a **Computer Science student** at **ASOIU**, currently in my 2nd year, worki
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
 ### [→ project-one](https://github.com/Rinat5x30/project-one)
 Short description of what this project does and the problem it solves.
@@ -77,7 +78,7 @@ Short description of what this project does and the problem it solves.
 **Stack:** `Python` `Django` `PostgreSQL`
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
 ### [→ project-two](https://github.com/Rinat5x30/project-two)
 Short description of what this project does and the problem it solves.
@@ -87,7 +88,7 @@ Short description of what this project does and the problem it solves.
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
 ### [→ project-three](https://github.com/Rinat5x30/project-three)
 Short description of what this project does and the problem it solves.
@@ -95,7 +96,7 @@ Short description of what this project does and the problem it solves.
 **Stack:** `HTML` `CSS` `JavaScript`
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
 ### [→ project-four](https://github.com/Rinat5x30/project-four)
 Short description of what this project does and the problem it solves.
@@ -110,8 +111,6 @@ Short description of what this project does and the problem it solves.
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
 <img height="180" src="https://github-readme-stats-rust-six-24.vercel.app/api?username=Rinat5x30&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="stats"/>
 <img height="180" src="https://streak-stats.demolab.com?user=Rinat5x30&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=c9d1d9&dates=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="streak"/>
 
@@ -123,21 +122,19 @@ Short description of what this project does and the problem it solves.
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rinat5x30&bg_color=0D1117&color=00D9FF&line=00D9FF&point=ffffff&area=true&hide_border=true" width="100%" alt="activity graph"/>
 
-</div>
-
 <br/>
 
 ## 🎯 Current Focus
 
-- 🔭 &nbsp; Building backend services with **Django REST Framework**
-- 📚 &nbsp; Studying **algorithms & data structures** at ASOIU
-- 💼 &nbsp; Available for **freelance Python / Django projects**
+🔭 &nbsp; Building backend services with **Django REST Framework**
+<br/>
+📚 &nbsp; Studying **algorithms & data structures** at ASOIU
+<br/>
+💼 &nbsp; Available for **freelance Python / Django projects**
 
 <br/>
 
 ## 🔗 Connect With Me
-
-<div align="center">
 
 <a href="https://www.linkedin.com/in/rinataghayev/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" height="32"/>
@@ -151,9 +148,9 @@ Short description of what this project does and the problem it solves.
   <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" height="32"/>
 </a>
 
-</div>
-
-<br/>
+<br/><br/>
 
 <!-- ◆ FOOTER ◆ -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:1F2937,100:0D1117&height=100&section=footer" width="100%" alt="footer"/>
+
+</div>
