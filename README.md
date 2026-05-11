@@ -61,7 +61,7 @@ I'm a **Computer Science student** at **ASOIU**, currently in my 2nd year, worki
 
 <table>
 <tr>
-<td width="50%" valign="top" align="center">
+<td width="50%" valign="top" align="center" bgcolor="#0D1117">
 
 ### [→ BodyCode](https://github.com/Rinat5x30/BodyCode)
 
@@ -74,7 +74,7 @@ Fitness web app with a scientific approach to health tracking. Deployed at bodyc
 **Stack:** `Python` `Django` `HTML` `CSS` `JavaScript`
 
 </td>
-<td width="50%" valign="top" align="center">
+<td width="50%" valign="top" align="center" bgcolor="#0D1117">
 
 ### [→ scripta-digital-library](https://github.com/Rinat5x30/scripta-digital-library)
 
@@ -89,7 +89,7 @@ Full-stack digital library platform for organizing and accessing books online.
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top" align="center">
+<td width="50%" valign="top" align="center" bgcolor="#0D1117">
 
 ### [→ viselisa](https://github.com/Rinat5x30/viselisa)
 
@@ -102,7 +102,7 @@ Hangman game where players guess names of Italian footballers, with progressive 
 **Stack:** `Python` `Django REST Framework` `SQLite` `Docker`
 
 </td>
-<td width="50%" valign="top" align="center">
+<td width="50%" valign="top" align="center" bgcolor="#0D1117">
 
 ### [→ django-ticket-generator](https://github.com/Rinat5x30/django-ticket-generator)
 
@@ -130,7 +130,7 @@ Exam ticket generator for 5 university subjects with A4 print optimization and q
 <!-- ◆ TROPHIES ◆ -->
 ## 🏆 GitHub Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=Rinat5x30&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" alt="trophies" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Rinat5x30&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&row=1&column=4" alt="trophies" width="100%"/>
 
 <br/>
 
