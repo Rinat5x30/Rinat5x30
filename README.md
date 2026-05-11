@@ -102,25 +102,8 @@ Exam ticket generator for 5 university subjects with A4 print optimization and q
 
 ## 📊 GitHub Stats
 
-<img width="100%" src="https://streak-stats.demolab.com?user=Rinat5x30&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=c9d1d9&dates=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="streak"/>
-
-<br/><br/>
-
-<img src="https://github-readme-stats-rust-six-24.vercel.app/api/top-langs/?username=Rinat5x30&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=c9d1d9&langs_count=8" alt="top languages"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rinat5x30&bg_color=0D1117&color=00D9FF&line=00D9FF&point=ffffff&area=true&hide_border=true" width="100%" alt="activity graph"/>
-
-<br/>
-
-## 🎯 Current Focus
-
-🔭 &nbsp; Building backend services with **Django REST Framework**
-<br/>
-📚 &nbsp; Studying **algorithms & data structures** at ASOIU
-<br/>
-💼 &nbsp; Available for **freelance Python / Django projects**
+<img height="170" src="https://streak-stats.demolab.com?user=Rinat5x30&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=c9d1d9&dates=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="streak"/>
+<img height="170" src="https://github-readme-stats-rust-six-24.vercel.app/api/top-langs/?username=Rinat5x30&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=c9d1d9&langs_count=8" alt="top languages"/>
 
 <br/>
 
