@@ -1,10 +1,3 @@
-<!--
-═══════════════════════════════════════════════════════════════════
-  README — Variant B: Premium Minimal
-  Repo: Rinat5x30/Rinat5x30  (profile README)
-═══════════════════════════════════════════════════════════════════
--->
-
 <div align="center">
 
 <!-- ◆ HERO BANNER ◆ -->
@@ -15,7 +8,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=900&color=00D9FF&center=true&vCenter=true&width=720&height=50&lines=Crafting+code%2C+one+commit+at+a+time;Building+scalable+web+applications;Turning+complex+problems+into+elegant+solutions" alt="Typing SVG"/>
 </a>
 
-<br/><br/>
+<br/>
 
 <!-- ◆ STATUS BADGES ◆ -->
 <kbd>&nbsp;📍&nbsp;Baku, Azerbaijan&nbsp;</kbd>&nbsp;&nbsp;<kbd>&nbsp;●&nbsp;Available for freelance&nbsp;</kbd>&nbsp;&nbsp;<kbd>&nbsp;○&nbsp;Studying at ASOIU&nbsp;</kbd>
