@@ -117,7 +117,7 @@ Short description of what this project does and the problem it solves.
 
 <br/><br/>
 
-<img src="https://github-readme-stats-rust-six-24.vercel.app/api/top-langs/?username=Rinat5x30&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=c9d1d9&langs_count=8" alt="top languages"/>
+<img src="https://github-readme-stats-rust-six-24.vercel.app/api/top-langs/?username=Rinat5x30&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=c9d1d9&langs_count=8&hide=c%2B%2B,c" alt="top languages"/>
 
 <br/><br/>
 
