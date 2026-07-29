@@ -1,15 +1,25 @@
-<!-- ===== THEME-AWARE HERO BANNER ===== -->
-<!-- GitHub automatically shows dark.svg in dark mode and light.svg in light mode -->
+<!-- ===== HERO ===== -->
+<div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rinat5x30/Rinat5x30/main/dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rinat5x30/Rinat5x30/main/light.svg">
-  <img alt="Rinat Aghayev" src="https://raw.githubusercontent.com/Rinat5x30/Rinat5x30/main/light.svg">
-</picture>
+<img src="assets/avatar.png" width="150" height="150" style="border-radius:50%;object-fit:cover;" alt="Rinat Aghayev"/>
+
+<br/><br/>
+
+<a href="https://github.com/Rinat5x30">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=900&color=22D3EE&center=true&vCenter=true&width=720&height=55&lines=Rinat+Aghayev;Computer+Science+Student+%E2%80%94+Web+Developer;Crafting+code%2C+one+commit+at+a+time;Building+scalable+web+applications;Turning+complex+problems+into+elegant+solutions" alt="Typing SVG"/>
+</a>
+
+<br/>
+
+<kbd>&nbsp;📍&nbsp;Baku, Azerbaijan&nbsp;</kbd>&nbsp;&nbsp;<kbd>&nbsp;●&nbsp;Available for freelance&nbsp;</kbd>&nbsp;&nbsp;<kbd>&nbsp;○&nbsp;Studying at ASOIU&nbsp;</kbd>
+
+</div>
 
 <!-- ===== GITHUB STATS ===== -->
 
 <div align="center">
+
+<br/>
 
 <!-- Streak — full width -->
 <picture>
@@ -45,18 +55,33 @@
 
 <!-- ===== END SNAKE ===== -->
 <br/>
+
+<!-- ===== ABOUT ===== -->
+<div align="center">
+
+## ⚡ About Me
+
+</div>
+
+I'm a **Computer Science student** at **ASOIU**, currently in my 2nd year, working as a freelance web developer alongside my studies.
+
+<p>🎓 Strong fundamentals in <strong>algorithms, data structures, and systems</strong></p>
+<p>🧩 Specializing in <strong>backend development</strong> with Python &amp; Django</p>
+<p>⚡ Known for picking up new stacks fast and shipping production-ready code</p>
+<p>🌍 Based in Baku, working with clients worldwide</p>
+
 <br/>
 
-<!-- ===== FEATURED PROJECTS ===== -->
-<!-- NOTE: the template this was copied from shows a single auto-generated
-     projects.svg from a "projects" branch — that comes from a separate tool
-     not covered by the two guides, so it doesn't exist for this account.
-     Kept the real project cards (same data as your current README) instead. -->
+<!-- ===== PROJECTS ===== -->
 <div align="center">
+
+## 🚀 Featured Projects
+
+</div>
 
 <table>
 <tr>
-<td width="50%" valign="top" align="center" bgcolor="#0D1117">
+<td width="50%" valign="top" align="center" bgcolor="#0A101F">
 
 ### [→ BodyCode](https://github.com/Rinat5x30/BodyCode)
 
@@ -69,7 +94,7 @@ Fitness web app with a scientific approach to health tracking. Deployed at bodyc
 **Stack:** `Python` `Django` `HTML` `CSS` `JavaScript`
 
 </td>
-<td width="50%" valign="top" align="center" bgcolor="#0D1117">
+<td width="50%" valign="top" align="center" bgcolor="#0A101F">
 
 ### [→ scripta-digital-library](https://github.com/Rinat5x30/scripta-digital-library)
 
@@ -84,7 +109,7 @@ Full-stack digital library platform for organizing and accessing books online.
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top" align="center" bgcolor="#0D1117">
+<td width="50%" valign="top" align="center" bgcolor="#0A101F">
 
 ### [→ viselisa](https://github.com/Rinat5x30/viselisa)
 
@@ -97,7 +122,7 @@ Hangman game where players guess names of Italian footballers, with progressive 
 **Stack:** `Python` `Django REST Framework` `SQLite` `Docker`
 
 </td>
-<td width="50%" valign="top" align="center" bgcolor="#0D1117">
+<td width="50%" valign="top" align="center" bgcolor="#0A101F">
 
 ### [→ django-ticket-generator](https://github.com/Rinat5x30/django-ticket-generator)
 
@@ -113,24 +138,21 @@ Exam ticket generator for 5 university subjects with A4 print optimization and q
 </tr>
 </table>
 
-</div>
-
 <!-- ===== SOCIAL BADGES ===== -->
 <br/>
 <div align="center">
 
 <a href="https://www.linkedin.com/in/rinataghayev/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A101F?style=for-the-badge&logoColor=white&labelColor=0A101F&logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBmaWxsPSJ3aGl0ZSI+PHBhdGggZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyNSAweiIvPjwvc3ZnPg==" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A101F?style=for-the-badge&logo=linkedin&logoColor=22D3EE&labelColor=0A101F" alt="LinkedIn" />
 </a>
 &nbsp;&nbsp;
 <a href="https://t.me/rinat_web_dev">
-  <img src="https://img.shields.io/badge/Telegram-0A101F?style=for-the-badge&logo=telegram&logoColor=22D3EE&labelColor=0A101F" alt="Telegram" />
+  <img src="https://img.shields.io/badge/Telegram-0A101F?style=for-the-badge&logo=telegram&logoColor=A78BFA&labelColor=0A101F" alt="Telegram" />
 </a>
 &nbsp;&nbsp;
 <a href="mailto:rinatagayev07@gmail.com">
   <img src="https://img.shields.io/badge/Email-0A101F?style=for-the-badge&logo=gmail&logoColor=10B981&labelColor=0A101F" alt="Email" />
 </a>
-&nbsp;&nbsp;
 
 </div>
 
